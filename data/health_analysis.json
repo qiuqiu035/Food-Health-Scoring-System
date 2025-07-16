@@ -1,0 +1,907 @@
+{
+  "1.jpg": {
+    "foods_detected": [
+      "rice",
+      "jiaozi"
+    ],
+    "portion_grams_used": {
+      "rice": 150,
+      "jiaozi": 160
+    },
+    "total_energy_kcal": 467.0,
+    "nutrient_grams": {
+      "fat_g": 11.6,
+      "protein_g": 16.6,
+      "carbohydrate_g": 74.0,
+      "sugars_g": 1.8,
+      "saturated_fat_g": 3.4
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 22.5,
+      "protein_percent": 14.2,
+      "carbohydrate_percent": 63.4
+    },
+    "health_analysis": "Moderate calorie level.",
+    "missing_items": null
+  },
+  "1013.jpg": {
+    "foods_detected": [
+      "bibimbap"
+    ],
+    "portion_grams_used": {
+      "bibimbap": 300
+    },
+    "total_energy_kcal": 420.0,
+    "nutrient_grams": {
+      "fat_g": 15.0,
+      "protein_g": 15.0,
+      "carbohydrate_g": 54.0,
+      "sugars_g": 7.5,
+      "saturated_fat_g": 3.0
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 32.1,
+      "protein_percent": 14.3,
+      "carbohydrate_percent": 51.4
+    },
+    "health_analysis": "Moderate calorie level.",
+    "missing_items": null
+  },
+  "1039.jpg": {
+    "foods_detected": [
+      "bibimbap"
+    ],
+    "portion_grams_used": {
+      "bibimbap": 300
+    },
+    "total_energy_kcal": 420.0,
+    "nutrient_grams": {
+      "fat_g": 15.0,
+      "protein_g": 15.0,
+      "carbohydrate_g": 54.0,
+      "sugars_g": 7.5,
+      "saturated_fat_g": 3.0
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 32.1,
+      "protein_percent": 14.3,
+      "carbohydrate_percent": 51.4
+    },
+    "health_analysis": "Moderate calorie level.",
+    "missing_items": null
+  },
+  "108445.jpg": {
+    "foods_detected": [
+      "custard tart"
+    ],
+    "portion_grams_used": {
+      "custard tart": 100
+    },
+    "total_energy_kcal": 270.0,
+    "nutrient_grams": {
+      "fat_g": 12.0,
+      "protein_g": 4.0,
+      "carbohydrate_g": 33.0,
+      "sugars_g": 17.0,
+      "saturated_fat_g": 6.0
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 40.0,
+      "protein_percent": 5.9,
+      "carbohydrate_percent": 48.9
+    },
+    "health_analysis": "Low in calories. High fat proportion. Low protein proportion. High sugar content. High saturated fat content.",
+    "missing_items": null
+  },
+  "1220.jpg": {
+    "foods_detected": [
+      "croissant"
+    ],
+    "portion_grams_used": {
+      "croissant": 60
+    },
+    "total_energy_kcal": 246.0,
+    "nutrient_grams": {
+      "fat_g": 13.2,
+      "protein_g": 3.6,
+      "carbohydrate_g": 27.0,
+      "sugars_g": 8.4,
+      "saturated_fat_g": 6.6
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 48.3,
+      "protein_percent": 5.9,
+      "carbohydrate_percent": 43.9
+    },
+    "health_analysis": "Low in calories. High fat proportion. Low protein proportion. High saturated fat content.",
+    "missing_items": null
+  },
+  "15076.jpg": {
+    "foods_detected": [
+      "pancake"
+    ],
+    "portion_grams_used": {
+      "pancake": 150
+    },
+    "total_energy_kcal": 330.0,
+    "nutrient_grams": {
+      "fat_g": 9.0,
+      "protein_g": 7.5,
+      "carbohydrate_g": 52.5,
+      "sugars_g": 15.0,
+      "saturated_fat_g": 2.2
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 24.5,
+      "protein_percent": 9.1,
+      "carbohydrate_percent": 63.6
+    },
+    "health_analysis": "Moderate calorie level. Low protein proportion.",
+    "missing_items": null
+  },
+  "156320.jpg": {
+    "foods_detected": [
+      "hot pot"
+    ],
+    "portion_grams_used": {
+      "hot pot": 400
+    },
+    "total_energy_kcal": 360.0,
+    "nutrient_grams": {
+      "fat_g": 18.0,
+      "protein_g": 24.0,
+      "carbohydrate_g": 20.0,
+      "sugars_g": 4.0,
+      "saturated_fat_g": 6.0
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 45.0,
+      "protein_percent": 26.7,
+      "carbohydrate_percent": 22.2
+    },
+    "health_analysis": "Moderate calorie level. High fat proportion. High saturated fat content.",
+    "missing_items": null
+  },
+  "1661.jpg": {
+    "foods_detected": [
+      "hamburger"
+    ],
+    "portion_grams_used": {
+      "hamburger": 220
+    },
+    "total_energy_kcal": 550.0,
+    "nutrient_grams": {
+      "fat_g": 28.6,
+      "protein_g": 30.8,
+      "carbohydrate_g": 44.0,
+      "sugars_g": 8.8,
+      "saturated_fat_g": 11.0
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 46.8,
+      "protein_percent": 22.4,
+      "carbohydrate_percent": 32.0
+    },
+    "health_analysis": "Moderate calorie level. High fat proportion. High saturated fat content.",
+    "missing_items": null
+  },
+  "1730.jpg": {
+    "foods_detected": [
+      "pizza"
+    ],
+    "portion_grams_used": {
+      "pizza": 250
+    },
+    "total_energy_kcal": 675.0,
+    "nutrient_grams": {
+      "fat_g": 30.0,
+      "protein_g": 27.5,
+      "carbohydrate_g": 70.0,
+      "sugars_g": 7.5,
+      "saturated_fat_g": 12.5
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 40.0,
+      "protein_percent": 16.3,
+      "carbohydrate_percent": 41.5
+    },
+    "health_analysis": "Moderate calorie level. High fat proportion. High saturated fat content.",
+    "missing_items": null
+  },
+  "1856.jpg": {
+    "foods_detected": [
+      "sandwiches"
+    ],
+    "portion_grams_used": {
+      "sandwiches": 180
+    },
+    "total_energy_kcal": 486.0,
+    "nutrient_grams": {
+      "fat_g": 7.2,
+      "protein_g": 14.4,
+      "carbohydrate_g": 81.0,
+      "sugars_g": 7.2,
+      "saturated_fat_g": 1.8
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 13.3,
+      "protein_percent": 11.9,
+      "carbohydrate_percent": 66.7
+    },
+    "health_analysis": "Moderate calorie level.",
+    "missing_items": null
+  },
+  "1927.jpg": {
+    "foods_detected": [
+      "udon noodle"
+    ],
+    "portion_grams_used": {
+      "udon noodle": 300
+    },
+    "total_energy_kcal": 315.0,
+    "nutrient_grams": {
+      "fat_g": 0.6,
+      "protein_g": 6.0,
+      "carbohydrate_g": 63.0,
+      "sugars_g": 0.3,
+      "saturated_fat_g": 0.1
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 1.7,
+      "protein_percent": 7.6,
+      "carbohydrate_percent": 80.0
+    },
+    "health_analysis": "Moderate calorie level. Low protein proportion.",
+    "missing_items": null
+  },
+  "2064.jpg": {
+    "foods_detected": [
+      "tempura udon"
+    ],
+    "portion_grams_used": {
+      "tempura udon": 320
+    },
+    "total_energy_kcal": 416.0,
+    "nutrient_grams": {
+      "fat_g": 11.2,
+      "protein_g": 9.6,
+      "carbohydrate_g": 64.0,
+      "sugars_g": 3.2,
+      "saturated_fat_g": 2.6
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 24.2,
+      "protein_percent": 9.2,
+      "carbohydrate_percent": 61.5
+    },
+    "health_analysis": "Moderate calorie level. Low protein proportion.",
+    "missing_items": null
+  },
+  "210.jpg": {
+    "foods_detected": [
+      "pilaf"
+    ],
+    "portion_grams_used": {
+      "pilaf": 200
+    },
+    "total_energy_kcal": 340.0,
+    "nutrient_grams": {
+      "fat_g": 12.0,
+      "protein_g": 18.0,
+      "carbohydrate_g": 36.0,
+      "sugars_g": 3.0,
+      "saturated_fat_g": 4.0
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 31.8,
+      "protein_percent": 21.2,
+      "carbohydrate_percent": 42.4
+    },
+    "health_analysis": "Moderate calorie level.",
+    "missing_items": null
+  },
+  "2273.jpg": {
+    "foods_detected": [
+      "ramen noodle"
+    ],
+    "portion_grams_used": {
+      "ramen noodle": 350
+    },
+    "total_energy_kcal": 1610.0,
+    "nutrient_grams": {
+      "fat_g": 63.0,
+      "protein_g": 31.5,
+      "carbohydrate_g": 210.0,
+      "sugars_g": 7.0,
+      "saturated_fat_g": 28.0
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 35.2,
+      "protein_percent": 7.8,
+      "carbohydrate_percent": 52.2
+    },
+    "health_analysis": "High in calories. High fat proportion. Low protein proportion. High saturated fat content.",
+    "missing_items": null
+  },
+  "25.jpg": {
+    "foods_detected": [
+      "green salad",
+      "miso soup",
+      "rice"
+    ],
+    "portion_grams_used": {
+      "green salad": 80,
+      "miso soup": 180,
+      "rice": 150
+    },
+    "total_energy_kcal": 294.0,
+    "nutrient_grams": {
+      "fat_g": 3.9,
+      "protein_g": 8.6,
+      "carbohydrate_g": 53.3,
+      "sugars_g": 4.5,
+      "saturated_fat_g": 0.8
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 11.8,
+      "protein_percent": 11.6,
+      "carbohydrate_percent": 72.5
+    },
+    "health_analysis": "Low in calories.",
+    "missing_items": null
+  },
+  "2815.jpg": {
+    "foods_detected": [
+      "takoyaki"
+    ],
+    "portion_grams_used": {
+      "takoyaki": 150
+    },
+    "total_energy_kcal": 240.0,
+    "nutrient_grams": {
+      "fat_g": 12.8,
+      "protein_g": 8.2,
+      "carbohydrate_g": 22.5,
+      "sugars_g": 2.7,
+      "saturated_fat_g": 3.0
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 47.8,
+      "protein_percent": 13.8,
+      "carbohydrate_percent": 37.5
+    },
+    "health_analysis": "Low in calories. High fat proportion.",
+    "missing_items": null
+  },
+  "292304.jpg": {
+    "foods_detected": [
+      "nasi goreng"
+    ],
+    "portion_grams_used": {
+      "nasi goreng": 280
+    },
+    "total_energy_kcal": 448.0,
+    "nutrient_grams": {
+      "fat_g": 15.4,
+      "protein_g": 14.0,
+      "carbohydrate_g": 61.6,
+      "sugars_g": 8.4,
+      "saturated_fat_g": 2.8
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 30.9,
+      "protein_percent": 12.5,
+      "carbohydrate_percent": 55.0
+    },
+    "health_analysis": "Moderate calorie level.",
+    "missing_items": null
+  },
+  "2973.jpg": {
+    "foods_detected": [
+      "mango pudding"
+    ],
+    "portion_grams_used": {
+      "mango pudding": 100
+    },
+    "total_energy_kcal": 110.0,
+    "nutrient_grams": {
+      "fat_g": 3.0,
+      "protein_g": 2.0,
+      "carbohydrate_g": 18.0,
+      "sugars_g": 15.0,
+      "saturated_fat_g": 2.0
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 24.5,
+      "protein_percent": 7.3,
+      "carbohydrate_percent": 65.5
+    },
+    "health_analysis": "Low in calories. Low protein proportion.",
+    "missing_items": null
+  },
+  "3127.jpg": {
+    "foods_detected": [
+      "croquette"
+    ],
+    "portion_grams_used": {
+      "croquette": 150
+    },
+    "total_energy_kcal": 315.0,
+    "nutrient_grams": {
+      "fat_g": 16.5,
+      "protein_g": 13.5,
+      "carbohydrate_g": 22.5,
+      "sugars_g": 1.5,
+      "saturated_fat_g": 2.2
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 47.1,
+      "protein_percent": 17.1,
+      "carbohydrate_percent": 28.6
+    },
+    "health_analysis": "Moderate calorie level. High fat proportion.",
+    "missing_items": null
+  },
+  "3293.jpg": {
+    "foods_detected": [
+      "sauteed spinach"
+    ],
+    "portion_grams_used": {
+      "sauteed spinach": 100
+    },
+    "total_energy_kcal": 75.0,
+    "nutrient_grams": {
+      "fat_g": 4.5,
+      "protein_g": 2.5,
+      "carbohydrate_g": 6.0,
+      "sugars_g": 0.5,
+      "saturated_fat_g": 1.2
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 54.0,
+      "protein_percent": 13.3,
+      "carbohydrate_percent": 32.0
+    },
+    "health_analysis": "Low in calories. High fat proportion.",
+    "missing_items": null
+  },
+  "337301.jpg": {
+    "foods_detected": [
+      "eight treasure rice"
+    ],
+    "portion_grams_used": {
+      "eight treasure rice": 200
+    },
+    "total_energy_kcal": 300.0,
+    "nutrient_grams": {
+      "fat_g": 1.0,
+      "protein_g": 4.0,
+      "carbohydrate_g": 66.0,
+      "sugars_g": 12.0,
+      "saturated_fat_g": 0.2
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 3.0,
+      "protein_percent": 5.3,
+      "carbohydrate_percent": 88.0
+    },
+    "health_analysis": "Moderate calorie level. Low protein proportion.",
+    "missing_items": null
+  },
+  "341186.jpg": {
+    "foods_detected": [
+      "kung pao chicken"
+    ],
+    "portion_grams_used": {
+      "kung pao chicken": 250
+    },
+    "total_energy_kcal": 425.0,
+    "nutrient_grams": {
+      "fat_g": 17.5,
+      "protein_g": 32.5,
+      "carbohydrate_g": 22.5,
+      "sugars_g": 10.0,
+      "saturated_fat_g": 3.8
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 37.1,
+      "protein_percent": 30.6,
+      "carbohydrate_percent": 21.2
+    },
+    "health_analysis": "Moderate calorie level. High fat proportion.",
+    "missing_items": null
+  },
+  "3518.jpg": {
+    "foods_detected": [
+      "miso soup"
+    ],
+    "portion_grams_used": {
+      "miso soup": 180
+    },
+    "total_energy_kcal": 63.0,
+    "nutrient_grams": {
+      "fat_g": 1.8,
+      "protein_g": 3.6,
+      "carbohydrate_g": 8.1,
+      "sugars_g": 2.7,
+      "saturated_fat_g": 0.4
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 25.7,
+      "protein_percent": 22.9,
+      "carbohydrate_percent": 51.4
+    },
+    "health_analysis": "Low in calories.",
+    "missing_items": null
+  },
+  "3708.jpg": {
+    "foods_detected": [
+      "sausage"
+    ],
+    "portion_grams_used": {
+      "sausage": 100
+    },
+    "total_energy_kcal": 301.0,
+    "nutrient_grams": {
+      "fat_g": 26.0,
+      "protein_g": 13.0,
+      "carbohydrate_g": 1.0,
+      "sugars_g": 0.5,
+      "saturated_fat_g": 9.0
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 77.7,
+      "protein_percent": 17.3,
+      "carbohydrate_percent": 1.3
+    },
+    "health_analysis": "Moderate calorie level. High fat proportion. High saturated fat content.",
+    "missing_items": null
+  },
+  "3782.jpg": {
+    "foods_detected": [
+      "sausage"
+    ],
+    "portion_grams_used": {
+      "sausage": 100
+    },
+    "total_energy_kcal": 301.0,
+    "nutrient_grams": {
+      "fat_g": 26.0,
+      "protein_g": 13.0,
+      "carbohydrate_g": 1.0,
+      "sugars_g": 0.5,
+      "saturated_fat_g": 9.0
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 77.7,
+      "protein_percent": 17.3,
+      "carbohydrate_percent": 1.3
+    },
+    "health_analysis": "Moderate calorie level. High fat proportion. High saturated fat content.",
+    "missing_items": null
+  },
+  "3948.jpg": {
+    "foods_detected": [
+      "omelet"
+    ],
+    "portion_grams_used": {
+      "omelet": 150
+    },
+    "total_energy_kcal": 285.0,
+    "nutrient_grams": {
+      "fat_g": 21.0,
+      "protein_g": 18.0,
+      "carbohydrate_g": 3.0,
+      "sugars_g": 2.2,
+      "saturated_fat_g": 9.0
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 66.3,
+      "protein_percent": 25.3,
+      "carbohydrate_percent": 4.2
+    },
+    "health_analysis": "Low in calories. High fat proportion. High saturated fat content.",
+    "missing_items": null
+  },
+  "4097.jpg": {
+    "foods_detected": [
+      "jiaozi"
+    ],
+    "portion_grams_used": {
+      "jiaozi": 160
+    },
+    "total_energy_kcal": 272.0,
+    "nutrient_grams": {
+      "fat_g": 11.2,
+      "protein_g": 12.8,
+      "carbohydrate_g": 32.0,
+      "sugars_g": 1.6,
+      "saturated_fat_g": 3.2
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 37.1,
+      "protein_percent": 18.8,
+      "carbohydrate_percent": 47.1
+    },
+    "health_analysis": "Low in calories. High fat proportion.",
+    "missing_items": null
+  },
+  "4226.jpg": {
+    "foods_detected": [
+      "stew"
+    ],
+    "portion_grams_used": {
+      "stew": 300
+    },
+    "total_energy_kcal": 285.0,
+    "nutrient_grams": {
+      "fat_g": 6.0,
+      "protein_g": 15.0,
+      "carbohydrate_g": 33.0,
+      "sugars_g": 6.0,
+      "saturated_fat_g": 1.2
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 18.9,
+      "protein_percent": 21.1,
+      "carbohydrate_percent": 46.3
+    },
+    "health_analysis": "Low in calories.",
+    "missing_items": null
+  },
+  "4591.jpg": {
+    "foods_detected": [
+      "paella"
+    ],
+    "portion_grams_used": {
+      "paella": 280
+    },
+    "total_energy_kcal": 406.0,
+    "nutrient_grams": {
+      "fat_g": 14.0,
+      "protein_g": 22.4,
+      "carbohydrate_g": 44.8,
+      "sugars_g": 2.8,
+      "saturated_fat_g": 2.8
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 31.0,
+      "protein_percent": 22.1,
+      "carbohydrate_percent": 44.1
+    },
+    "health_analysis": "Moderate calorie level.",
+    "missing_items": null
+  },
+  "4759.jpg": {
+    "foods_detected": [
+      "sashimi"
+    ],
+    "portion_grams_used": {
+      "sashimi": 150
+    },
+    "total_energy_kcal": 219.0,
+    "nutrient_grams": {
+      "fat_g": 8.8,
+      "protein_g": 31.5,
+      "carbohydrate_g": 0.0,
+      "sugars_g": 0.0,
+      "saturated_fat_g": 1.9
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 36.4,
+      "protein_percent": 57.5,
+      "carbohydrate_percent": 0.0
+    },
+    "health_analysis": "Low in calories. High fat proportion.",
+    "missing_items": null
+  },
+  "6564.jpg": {
+    "foods_detected": [
+      "yakitori"
+    ],
+    "portion_grams_used": {
+      "yakitori": 100
+    },
+    "total_energy_kcal": 140.0,
+    "nutrient_grams": {
+      "fat_g": 6.5,
+      "protein_g": 17.0,
+      "carbohydrate_g": 4.0,
+      "sugars_g": 2.0,
+      "saturated_fat_g": 2.0
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 41.8,
+      "protein_percent": 48.6,
+      "carbohydrate_percent": 11.4
+    },
+    "health_analysis": "Low in calories. High fat proportion.",
+    "missing_items": null
+  },
+  "663.jpg": {
+    "foods_detected": [
+      "sushi"
+    ],
+    "portion_grams_used": {
+      "sushi": 120
+    },
+    "total_energy_kcal": 180.0,
+    "nutrient_grams": {
+      "fat_g": 6.0,
+      "protein_g": 4.8,
+      "carbohydrate_g": 25.2,
+      "sugars_g": 3.6,
+      "saturated_fat_g": 1.0
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 30.0,
+      "protein_percent": 10.7,
+      "carbohydrate_percent": 56.0
+    },
+    "health_analysis": "Low in calories.",
+    "missing_items": null
+  },
+  "66311.jpg": {
+    "foods_detected": [
+      "Caesar salad"
+    ],
+    "portion_grams_used": {},
+    "total_energy_kcal": 0.0,
+    "nutrient_grams": {
+      "fat_g": 0.0,
+      "protein_g": 0.0,
+      "carbohydrate_g": 0.0,
+      "sugars_g": 0.0,
+      "saturated_fat_g": 0.0
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 0.0,
+      "protein_percent": 0.0,
+      "carbohydrate_percent": 0.0
+    },
+    "health_analysis": "Low in calories. Low protein proportion.",
+    "missing_items": [
+      "Caesar salad"
+    ]
+  },
+  "7547.jpg": {
+    "foods_detected": [
+      "egg roll"
+    ],
+    "portion_grams_used": {
+      "egg roll": 120
+    },
+    "total_energy_kcal": 264.0,
+    "nutrient_grams": {
+      "fat_g": 14.4,
+      "protein_g": 9.6,
+      "carbohydrate_g": 24.0,
+      "sugars_g": 2.4,
+      "saturated_fat_g": 3.6
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 49.1,
+      "protein_percent": 14.5,
+      "carbohydrate_percent": 36.4
+    },
+    "health_analysis": "Low in calories. High fat proportion.",
+    "missing_items": null
+  },
+  "8815.jpg": {
+    "foods_detected": [
+      "cutlet curry"
+    ],
+    "portion_grams_used": {
+      "cutlet curry": 300
+    },
+    "total_energy_kcal": 570.0,
+    "nutrient_grams": {
+      "fat_g": 30.0,
+      "protein_g": 33.0,
+      "carbohydrate_g": 36.0,
+      "sugars_g": 6.0,
+      "saturated_fat_g": 7.5
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 47.4,
+      "protein_percent": 23.2,
+      "carbohydrate_percent": 25.3
+    },
+    "health_analysis": "Moderate calorie level. High fat proportion. High saturated fat content.",
+    "missing_items": null
+  },
+  "8933.jpg": {
+    "foods_detected": [
+      "spaghetti meat sauce"
+    ],
+    "portion_grams_used": {
+      "spaghetti meat sauce": 320
+    },
+    "total_energy_kcal": 464.0,
+    "nutrient_grams": {
+      "fat_g": 16.0,
+      "protein_g": 22.4,
+      "carbohydrate_g": 54.4,
+      "sugars_g": 16.0,
+      "saturated_fat_g": 6.4
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 31.0,
+      "protein_percent": 19.3,
+      "carbohydrate_percent": 46.9
+    },
+    "health_analysis": "Moderate calorie level. High sugar content. High saturated fat content.",
+    "missing_items": null
+  },
+  "91.jpg": {
+    "foods_detected": [
+      "rice",
+      "miso soup"
+    ],
+    "portion_grams_used": {
+      "rice": 150,
+      "miso soup": 180
+    },
+    "total_energy_kcal": 258.0,
+    "nutrient_grams": {
+      "fat_g": 2.2,
+      "protein_g": 7.3,
+      "carbohydrate_g": 50.1,
+      "sugars_g": 2.9,
+      "saturated_fat_g": 0.5
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 7.8,
+      "protein_percent": 11.4,
+      "carbohydrate_percent": 77.7
+    },
+    "health_analysis": "Low in calories.",
+    "missing_items": null
+  },
+  "923.jpg": {
+    "foods_detected": [
+      "tempura bowl"
+    ],
+    "portion_grams_used": {
+      "tempura bowl": 280
+    },
+    "total_energy_kcal": 560.0,
+    "nutrient_grams": {
+      "fat_g": 28.0,
+      "protein_g": 19.6,
+      "carbohydrate_g": 56.0,
+      "sugars_g": 14.0,
+      "saturated_fat_g": 5.0
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 45.0,
+      "protein_percent": 14.0,
+      "carbohydrate_percent": 40.0
+    },
+    "health_analysis": "Moderate calorie level. High fat proportion. High saturated fat content.",
+    "missing_items": null
+  },
+  "976.jpg": {
+    "foods_detected": [
+      "tempura bowl"
+    ],
+    "portion_grams_used": {
+      "tempura bowl": 280
+    },
+    "total_energy_kcal": 560.0,
+    "nutrient_grams": {
+      "fat_g": 28.0,
+      "protein_g": 19.6,
+      "carbohydrate_g": 56.0,
+      "sugars_g": 14.0,
+      "saturated_fat_g": 5.0
+    },
+    "nutrient_energy_percent": {
+      "fat_percent": 45.0,
+      "protein_percent": 14.0,
+      "carbohydrate_percent": 40.0
+    },
+    "health_analysis": "Moderate calorie level. High fat proportion. High saturated fat content.",
+    "missing_items": null
+  }
+}
