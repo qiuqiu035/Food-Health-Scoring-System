@@ -262,7 +262,6 @@ DEFAULT_PORTIONS = {
 import os
 import json
 
-# 文件路径
 DETECTIONS_PATH = "data/detections.json"
 LOOKUP_PATH = "data/nutrition_lookup.json"
 OUTPUT_PATH = "data/health_analysis.json"
@@ -299,7 +298,6 @@ for img_name, foods in detections.items():
         total_sugar   += (nutri.get("sugars_100g") or 0) * portion / 100
         total_satfat  += (nutri.get("saturated_fat_100g") or 0) * portion / 100
 
-    # ====== 营养百分比分布 ======
     if total_energy > 0:
         fat_pct     = total_fat * 9 / total_energy * 100
         protein_pct = total_protein * 4 / total_energy * 100
@@ -307,7 +305,6 @@ for img_name, foods in detections.items():
     else:
         fat_pct = protein_pct = carb_pct = 0.0
 
-    # ====== 健康分析建议 ======
     suggestions = []
 
     if total_energy > 700:
@@ -326,7 +323,6 @@ for img_name, foods in detections.items():
     if total_satfat > 5:
         suggestions.append("High saturated fat content.")
 
-    # ====== 写入结果 ======
     results[img_name] = {
         "foods_detected": foods,
         "portion_grams_used": portions_used,
@@ -347,10 +343,8 @@ for img_name, foods in detections.items():
         "missing_items": missing_items or None
     }
 
-# ====== 写出 JSON 文件 ======
 os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
 with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
     json.dump(results, f, ensure_ascii=False, indent=2)
 
-print(f"✅ Health analysis saved to {OUTPUT_PATH}")
 
