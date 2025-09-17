@@ -2,23 +2,19 @@ import os
 import json
 from PIL import Image, ImageDraw, ImageFont
 
-# 路径配置
 IMG_DIR   = "data/test_images"
 JSON_PATH = "data/health_analysis.json"
 SAVE_DIR  = "results/annotated_images"
 os.makedirs(SAVE_DIR, exist_ok=True)
 
-# 加载分析结果
 with open(JSON_PATH, "r", encoding="utf-8") as f:
     analysis = json.load(f)
 
-# 加载字体
 try:
     font = ImageFont.truetype("arial.ttf", 15)
 except:
     font = ImageFont.load_default()
 
-# 自动换行函数
 def wrap_text(text, width):
     words = text.split()
     lines, line = [], ""
@@ -32,29 +28,25 @@ def wrap_text(text, width):
         lines.append(line)
     return lines
 
-# 遍历所有图像
 for img_name, result in analysis.items():
     img_path = os.path.join(IMG_DIR, img_name)
     if not os.path.exists(img_path):
-        print(f"❌ 图片不存在: {img_path}")
+        print(f"Don't exist: {img_path}")
         continue
 
     img = Image.open(img_path).convert("RGB")
     draw = ImageDraw.Draw(img, "RGBA")
 
-    # 读取内容
     energy = result.get("total_energy_kcal", 0)
     analysis_text = result.get("health_analysis", "")
     food_list = result.get("foods_detected", [])
 
-    # 构造文本内容：食物名 + 热量 + 健康分析
     max_line_length = 40
     foods_text = "Foods: " + ", ".join(food_list)
     lines = wrap_text(foods_text, max_line_length)
     lines.append(f"Energy: {energy:.1f} kcal")
     lines += wrap_text(analysis_text, max_line_length)
 
-    # 计算文本区域大小
     padding = 10
     line_sizes = [draw.textbbox((0, 0), line, font=font) for line in lines]
     widths  = [x[2] - x[0] for x in line_sizes]
@@ -63,21 +55,18 @@ for img_name, result in analysis.items():
     max_w = max(widths)
     total_h = sum(heights) + padding * (len(lines) + 1)
 
-    # 绘制背景框
     background_box = [0, 0, max_w + padding * 2, total_h]
     draw.rectangle(background_box, fill=(0, 0, 0, 180))
 
-    # 绘制文本
     y = padding
     for i, line in enumerate(lines):
         draw.text((padding, y), line, font=font, fill="white")
         y += heights[i] + padding
 
-    # 保存图像
     save_path = os.path.join(SAVE_DIR, img_name)
     img.save(save_path)
 
-print(f"✅ All images annotated and saved to: {SAVE_DIR}")
+print(f"All images annotated and saved to: {SAVE_DIR}")
 
 
 
