@@ -14,5 +14,3 @@ for class_folder in range(1, 257):
             src = os.path.join(class_path, file)
             dst = os.path.join(target_folder, file)
             shutil.copy2(src, dst)
-
-print("✅ 所有图像已复制到 images/ 文件夹")
